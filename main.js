@@ -31,8 +31,9 @@ math = high - "5";
 var born = 1983;
 var today = 2015;
 // A: name = 'Tim'
-// 		math = today - born
-// 		var statement = var statement = person + " is " +math + " years old.";
+// math = today - born
+// var statement = person + " is " +math + " years old.";
+// statement
 
 
 // Store some information following in variables.
